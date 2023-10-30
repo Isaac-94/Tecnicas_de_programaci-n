@@ -1,2 +1,2 @@
-# Tecnicas_de_programaci-n
+# Tecnicas_de_programacion
 TP_Final Ifts14
