@@ -1,0 +1,2 @@
+IPAddress conectarWifi();
+float CrearCodigoValidacion();
